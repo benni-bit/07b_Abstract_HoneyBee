@@ -1,6 +1,6 @@
 package com.cc.java;
 
-public class HoneyBee {
+public abstract class HoneyBee {
 
 
     public abstract String doYourJob();
